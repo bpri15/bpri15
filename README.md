@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpri15&label=Profile%20views&color=0e75b6&style=flat" alt="bpri15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bp" alt="bpri15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bpri15" alt="bpri15" /></a> </p>
 
 - 🌱 I’m currently Working on **MERN Stack and AI Development**
 
