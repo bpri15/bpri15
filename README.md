@@ -1,17 +1,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Priyanshu Bansal</h1>
-<h3 align="center">A passionate MERN stack developer/ Flutter dev from India</h3>
+<h3 align="center">A passionate MERN stack developer/ AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpri15h&label=Profile%20views&color=0e75b6&style=flat" alt="bpri15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bp" alt="bpri15" /></a> </p>
 
-- 🌱 I’m currently Working on **MERN Stack and Flutter**
+- 🌱 I’m currently Working on **MERN Stack and AI Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bpri15](https://github.com/bpri15)
 
-- 📫 How to reach me **srivastavasatyam2003@gmail.com**
+- 📫 How to reach me **priyanshubansal2003@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1BQjKcFLn_zrJMvZ_0WeAiur7L6gTButE/view?usp=sharing](https://drive.google.com/file/d/1BQjKcFLn_zrJMvZ_0WeAiur7L6gTButE/view?usp=sharing) -->
 
