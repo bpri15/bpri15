@@ -111,15 +111,6 @@ Full-stack real estate platform built during a hackathon.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bpri15&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
-
----
-
 ## 💡 Fun Fact
 
 > I love turning AI ideas into **real, deployable systems** that solve practical problems.
