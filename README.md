@@ -104,15 +104,9 @@ Full-stack real estate platform built during a hackathon.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpri15&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpri15&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpri15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=bpri15&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/bpri15?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/bpri15?label=Total%20Stars&style=flat" />
 </p>
 
 ---
@@ -120,8 +114,9 @@ Full-stack real estate platform built during a hackathon.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bpri15&theme=tokyonight&row=1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bpri15&theme=tokyonight&no-frame=true&row=1" />
 </p>
+
 
 ---
 
