@@ -99,15 +99,6 @@ Full-stack real estate platform built during a hackathon.
 👉 **Explore all projects:**  
 🔗 https://github.com/bpri15
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bpri15&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/bpri15?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/bpri15?label=Total%20Stars&style=flat" />
-</p>
 
 ---
 
